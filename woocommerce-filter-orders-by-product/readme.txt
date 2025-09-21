@@ -1,10 +1,10 @@
-=== WooCommerce Filter Orders by Product ===
+=== Filter Orders by Product for WooCommerce ===
 Contributors: kowsar89
 Tags: woocommerce, filter, order, product, admin
 Requires at least: 3.0.1
-Tested up to: 6.5.3
+Tested up to: 6.8
 Requires PHP: 5.6
-Stable tag: 4.1
+Stable tag: 4.1.2
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -31,13 +31,13 @@ There are three different ways to install this plugin, as well as any other plug
 
 1. Log in to your WordPress admin dashboard.
 2. Navigate to `Plugins` > `Add New`.
-3. Search for "WooCommerce Filter Orders by Product".
+3. Search for "Filter Orders by Product for WooCommerce".
 4. Click `Install Now` next to the plugin.
 5. Once installed, click `Activate`.
 
 = Manual Upload through WordPress Dashboard =
 
-1. Download the "WooCommerce Filter Orders by Product" plugin ZIP file.
+1. Download the "Filter Orders by Product for WooCommerce" plugin ZIP file.
 2. Log in to your WordPress admin dashboard.
 3. Navigate to `Plugins` > `Add New`.
 4. Click `Upload Plugin`.
@@ -46,13 +46,13 @@ There are three different ways to install this plugin, as well as any other plug
 
 = Installation via FTP =
 
-1. Download the "WooCommerce Filter Orders by Product" plugin ZIP file and extract it to your computer.
+1. Download the "Filter Orders by Product for WooCommerce" plugin ZIP file and extract it to your computer.
 2. Using an FTP client, connect to your web server.
 3. Navigate to `/wp-content/plugins/`.
 4. Upload the extracted plugin folder to the `/wp-content/plugins/` directory on your server.
 5. Log in to your WordPress admin dashboard.
 6. Navigate to `Plugins`.
-7. Locate "WooCommerce Filter Orders by Product" in the list and click `Activate`.
+7. Locate "Filter Orders by Product for WooCommerce" in the list and click `Activate`.
 
 After the installation is complete, a new filter will appear on the WooCommerce Orders page.
 
@@ -73,6 +73,9 @@ Currently, this plugin only works for published products. To make it work for al
 2. Click on that dropdown and you'll see a list of all products. Select a product and click on "Filter" button. It'll show up the orders which contains only that specific product.
 
 == Changelog ==
+
+= 4.1.2 - Sep 21, 2025 =
+* Tweak: Plugin name updated
 
 = 4.1 - May 20, 2024 =
 * Tweak: Readme updated
