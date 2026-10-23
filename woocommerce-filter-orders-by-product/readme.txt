@@ -2,7 +2,7 @@
 Contributors: kowsar89
 Tags: woocommerce, filter, order, product, admin
 Requires at least: 3.0.1
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 5.6
 Stable tag: 4.1.2
 License: GNU General Public License v3.0
